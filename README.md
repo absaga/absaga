@@ -8,12 +8,12 @@
 
 ### Hello!
 - 🔭 I’m currently looking to be part of a team that makes awesome things
-- 🌱 I’m currently working on mastering Framer Motion
+- 🌱 I’m working on mastering Framer Motion
 - 🐈‍⬛ Ask me about my cat Lynx
 - 📫 Reach out through LinkedIn or email
 
 ### Reach out!
-I am currently looking for new opportunities to learn and grow as an engineer, so please don't hesitate to reach out to me for any opportunities! 
+I am currently looking for new opportunities to learn and grow as an engineer, so please don't hesitate to reach out! 
 
 
   <a href='https://www.linkedin.com/in/abdielsanchezgaud/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&labelColor=1E66C2&color=323C3B'/></a>
