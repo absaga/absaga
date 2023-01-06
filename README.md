@@ -9,10 +9,11 @@
 ### Hello!
 - 🔭 I’m currently looking to be part of a team that makes awesome things
 - 🌱 I’m working on mastering Framer Motion
+- 🃏 I love deck building board/video games
 - 🐈‍⬛ Ask me about my cat Lynx
 - 📫 Reach out through LinkedIn or email
 
-### Reach out!
+### Get in touch!
 I am currently looking for new opportunities to learn and grow as an engineer, so please don't hesitate to reach out! 
 
 
