@@ -7,7 +7,7 @@
 
 ## Hello! 👋
 - 🔭 I’m looking to create awesome things
-- 🧑🏻‍💻 I am a tech enthusiast
+- 🧑🏻‍💻 I'm a tech enthusiast
 - 🃏 I love deck building games
 - 🐈‍⬛ Ask me about my cat Lynx
 
