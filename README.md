@@ -7,7 +7,7 @@
 </div>
 
 ### Hello!
-- 🔭 I’m currently looking for opportunities.
+- 🔭 I’m currently looking to be part of a team that makes awesome things
 - 🌱 I’m currently working on mastering Framer Motion
 - 🐈‍⬛ Ask me about my cat Lynx
 - 📫 Reach out through LinkedIn or email
