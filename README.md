@@ -31,7 +31,5 @@
 </div>
 
 ## Get in touch!
-I am currently looking for new opportunities in an awesome team. Please don't hesitate to reach out! 
-
 <a href='https://www.linkedin.com/in/abdielsanchezgaud/' target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href='mailto:gaud.abdiel@gmail.com' target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
