@@ -17,6 +17,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" />
+  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='.NET' src='https://img.shields.io/badge/.NET-100000?style=for-the-badge&logo=.NET&logoColor=FFFFFF&labelColor=9D00A3&color=9D00A3'/></a>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
